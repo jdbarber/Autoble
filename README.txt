@@ -9,17 +9,17 @@ CTRL + J: Fill out the live chat prompts. A window will pop up asking for the fu
 
 There are also chat-replacements, listed as follows. Type the keyword and then press space to fill out the full replacement text.
 
-nmor
+nm
 I just don't need it anymore
 
-nthx
+nt
 No thanks, just cancel
 
-wnch
+wn
 When was I last charged on that account?
 
-srry
+sr
 Sorry about that, I'll figure out the right info and reach out again later
 
-thx
+tx
 Thanks for the help!
